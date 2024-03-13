@@ -1,2 +1,2 @@
 # learning
-Learning the git and guthub.
+Learning the git and github.
